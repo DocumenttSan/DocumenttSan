@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**DocumenttSan/DocumenttSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+<img src='https://twitter.com/i/status/1668090217545482240'>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
