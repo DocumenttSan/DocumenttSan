@@ -1,7 +1,16 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=900&duration=3000&pause=1000&color=00A7F7&vCenter=true&multiline=true&width=435&height=150&lines=Hello...;It's+me;Nuttida+Maneesawus;in+progressing+of+upgrading+myself...;Nice+to+meet+you+(%C9%94%E2%97%94%E2%80%BF%E2%97%94)%C9%94+%E2%99%A5)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-<img src='https://twitter.com/i/status/1668090217545482240'>
+<hr/>
+::: My Skill :::
+<br/><hr/><br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocumenttSan&show_icons=true&theme=radical)
+
+
+Looking for what I'm listening?<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x3cmcj6lp2r36j7tgfrrcfzria&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=22afec&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x3cmcj6lp2r36j7tgfrrcfzria&redirect=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
